@@ -4,7 +4,7 @@
 Created on Sat Dec  8 23:55:49 2018
 
 @author: deivis
-"""
+
 -------------------------------------------------------------------------------
 
 Data requirements (just for Linear Regression class, not for the FillMatrix): 
